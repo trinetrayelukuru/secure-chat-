@@ -1,5 +1,13 @@
 # SecureChat — Encrypted Multi-Client Chat
 
+**Repository:** https://github.com/trinetrayelukuru/secure-chat-
+
+Clone it with:
+
+```powershell
+git clone https://github.com/trinetrayelukuru/secure-chat-.git
+```
+
 A small, beginner-friendly chat application written in Python. One computer runs a
 **server**, and several other computers (or several terminal windows on the same
 computer) run **clients**. Every message is encrypted with a **shared Fernet key**
